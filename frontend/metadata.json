@@ -1,0 +1,4 @@
+{
+  "name": "LactiFlow - AI Bulk Milk Supply Chain & Disruption Manager",
+  "description": "An intelligent Bulk Milk Chilling (BMC) operations dashboard that monitors milk inventory, spoilage shelf-life, and ambient weather. Powered by Gemini, it detects supply disruptions, evaluates vendor priority and constraints, generates step-by-step dispatch recommendations, and manages real-time vendor notifications."
+}
